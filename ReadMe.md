@@ -11,7 +11,8 @@
 
 - ⚡ Fun fact **DevOps engineers are often called "unicorns" for their rare blend of coding, operations, and automation skills.**
 
-### Blogs posts
+# Latest Blog Posts
+
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
