@@ -3,6 +3,8 @@
 
 - 🌱 I’m currently learning **DevOps**
 
+- 📝 I regularly write articles on [medium.com/@bhavesh_jadhav](medium.com/@bhavesh_jadhav)
+
 - 💬 Ask me about **Linux, Cloud and DevOps**
 
 - 📫 How to reach me **bhaveshjadhav050@gmail.com**
