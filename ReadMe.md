@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **DevOps**
 
-- 📝 I regularly write articles on [https://medium.com/@bhavesh_jadhav](https://medium.com/@bhavesh_jadhav)
-
 - 💬 Ask me about **Linux, Cloud and DevOps**
 
 - 📫 How to reach me **bhaveshjadhav050@gmail.com**
@@ -26,8 +24,3 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/bhaveshjadhav"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="bhaveshjadhav" /></a></p><br><br>
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhaveshjadhav&show_icons=true&locale=en&layout=compact" alt="bhaveshjadhav" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhaveshjadhav&show_icons=true&locale=en" alt="bhaveshjadhav" /></p>
