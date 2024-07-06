@@ -21,11 +21,20 @@ jobs:
         with:
           max_post_count: "4"
           feed_list: "https://medium.com/feed/@bhavesh_jadhav"
+          gh_token: ${{ secrets.GITHUB_TOKEN }}
+          readme_path: "./README.md"
+
+      - name: Display README contents
+        run: cat README.md
 
       - name: Commit changes
         run: |
-          git add README.md
-          git commit -m "Update latest blog posts"
-          git push
+          if [ -n "$(git status --porcelain)" ]; then
+            git add README.md
+            git commit -m "Update latest blog posts"
+            git push
+          else
+            echo "No changes to commit"
+          fi
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
