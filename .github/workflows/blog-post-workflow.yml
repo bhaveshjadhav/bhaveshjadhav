@@ -1,16 +1,31 @@
 name: Latest blog post workflow
-on: 
+on:
   schedule:
-    - cron: '0 * * * *'
+    - cron: '*/1 * * * *' # Runs every minute
 
-jobs: 
-  update-readme-with-blog: 
+jobs:
+  update-readme-with-blog:
     name: Update this repo's README with latest blog posts
     runs-on: ubuntu-latest
-    steps: 
-      - uses: actions/checkout@v2
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3 # Updated to the latest version
+
+      - name: Set up Git
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+
       - name: Update README
         uses: gautamkrishnar/blog-post-workflow@master
-        with: 
-          max_post_count: "3"
+        with:
+          max_post_count: "4"
           feed_list: "https://medium.com/feed/@bhavesh_jadhav"
+
+      - name: Commit changes
+        run: |
+          git add README.md
+          git commit -m "Update latest blog posts"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
