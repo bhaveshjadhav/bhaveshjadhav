@@ -14,10 +14,10 @@
 # Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Deployment of a Three-Tier Application on AWS EKS &lpar;Managed Kubernetes Service&rpar;](https://medium.com/@bhavesh_jadhav/deployment-of-a-three-tier-application-on-aws-eks-managed-kubernetes-service-4d92f3267c86?source=rss-3da6302a9cac------2)
 - [Containerizing a Two-Tier Application with Docker, Docker Compose, and Docker Scout](https://medium.com/@bhavesh_jadhav/containerizing-a-two-tier-application-with-docker-docker-compose-and-docker-scout-a60c2e41d96b?source=rss-3da6302a9cac------2)
 - [Managing Containers with Docker: A Step-by-Step Guide](https://medium.com/@bhavesh_jadhav/managing-containers-with-docker-a-step-by-step-guide-beeb37154499?source=rss-3da6302a9cac------2)
 - [Deep Dive into Git for DevOps: Essential Commands and Best Practices](https://medium.com/@bhavesh_jadhav/deep-dive-into-git-for-devops-essential-commands-and-best-practices-b86344c021a7?source=rss-3da6302a9cac------2)
-- [A Beginner’s Guide to Git: Mastering Version Control for Modern Development](https://medium.com/@bhavesh_jadhav/a-beginners-guide-to-git-mastering-version-control-for-modern-development-edeb096551d5?source=rss-3da6302a9cac------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
