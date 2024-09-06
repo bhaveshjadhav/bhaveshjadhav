@@ -14,10 +14,10 @@
 # Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SRE vs. DevOps vs. Platform Engineering: A Comprehensive Comparison](https://medium.com/@bhavesh_jadhav/sre-vs-devops-vs-platform-engineering-a-comprehensive-comparison-a04fe34d71b8?source=rss-3da6302a9cac------2)
 - [How Japan’s Space Agency Used Grafana to Monitor Its First Moon Landing in Real Time](https://medium.com/@bhavesh_jadhav/how-japans-space-agency-used-grafana-to-monitor-its-first-moon-landing-in-real-time-3776bf927248?source=rss-3da6302a9cac------2)
 - [Deploying a Netflix Clone on the Cloud using Jenkins: A Comprehensive DevSecOps Project](https://medium.com/@bhavesh_jadhav/deploying-a-netflix-clone-on-the-cloud-using-jenkins-a-comprehensive-devsecops-project-bb0151db897c?source=rss-3da6302a9cac------2)
 - [Continuous Database Reliability: Achieving Excellence in SDLC](https://medium.com/@bhavesh_jadhav/continuous-database-reliability-achieving-excellence-in-sdlc-a3f7dbc02d05?source=rss-3da6302a9cac------2)
-- [Deployment of a Three-Tier Application on AWS EKS &lpar;Managed Kubernetes Service&rpar;](https://medium.com/@bhavesh_jadhav/deployment-of-a-three-tier-application-on-aws-eks-managed-kubernetes-service-4d92f3267c86?source=rss-3da6302a9cac------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
