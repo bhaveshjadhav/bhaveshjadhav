@@ -14,10 +14,10 @@
 # Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Understanding Platform Engineering: The Key to Simplifying Development in Cloud-Native Environments](https://medium.com/@bhavesh_jadhav/understanding-platform-engineering-the-key-to-simplifying-development-in-cloud-native-environments-8fec0f1eedfa?source=rss-3da6302a9cac------2)
 - [Top Trends Shaping the Future of DevOps and SRE in 2024](https://medium.com/@bhavesh_jadhav/top-trends-shaping-the-future-of-devops-and-sre-in-2024-32323546e41a?source=rss-3da6302a9cac------2)
 - [SRE vs. DevOps vs. Platform Engineering: A Comprehensive Comparison](https://medium.com/@bhavesh_jadhav/sre-vs-devops-vs-platform-engineering-a-comprehensive-comparison-a04fe34d71b8?source=rss-3da6302a9cac------2)
 - [How Japan’s Space Agency Used Grafana to Monitor Its First Moon Landing in Real Time](https://medium.com/@bhavesh_jadhav/how-japans-space-agency-used-grafana-to-monitor-its-first-moon-landing-in-real-time-3776bf927248?source=rss-3da6302a9cac------2)
-- [Deploying a Netflix Clone on the Cloud using Jenkins: A Comprehensive DevSecOps Project](https://medium.com/@bhavesh_jadhav/deploying-a-netflix-clone-on-the-cloud-using-jenkins-a-comprehensive-devsecops-project-bb0151db897c?source=rss-3da6302a9cac------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
