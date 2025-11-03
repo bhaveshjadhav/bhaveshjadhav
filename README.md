@@ -14,10 +14,10 @@
 # Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Should You Stay in Software Engineering or Switch to DevOps in 2025?](https://medium.com/@bhavesh_jadhav/should-you-stay-in-software-engineering-or-switch-to-devops-in-2025-1379f34ddf04?source=rss-3da6302a9cac------2)
 - [The Rise of GitOps: Why It’s Becoming the New Standard in DevOps](https://medium.com/@bhavesh_jadhav/the-rise-of-gitops-why-its-becoming-the-new-standard-in-devops-efb322bceb86?source=rss-3da6302a9cac------2)
 - [GitOps and Declarative Infrastructure: A DevOps Revolution](https://medium.com/@bhavesh_jadhav/gitops-and-declarative-infrastructure-a-devops-revolution-60484fdeb881?source=rss-3da6302a9cac------2)
 - [What Does “Sec” Mean in DevSecOps, and How Do You Apply It?](https://medium.com/@bhavesh_jadhav/what-does-sec-mean-in-devsecops-and-how-do-you-apply-it-aa1a0eef630a?source=rss-3da6302a9cac------2)
-- [Quantum Computing in DevOps: The Future of Agile Technology](https://medium.com/@bhavesh_jadhav/quantum-computing-in-devops-the-future-of-agile-technology-5ff18151eb4d?source=rss-3da6302a9cac------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
